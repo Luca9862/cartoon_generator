@@ -16,7 +16,7 @@ def loadImg(picture_path):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-loadImg(r"C:\Users\canal\Desktop\051.JPG")
+loadImg(r"pictures/albert.jpg")
 
 
 
